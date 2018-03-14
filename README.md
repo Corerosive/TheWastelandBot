@@ -1,0 +1,2 @@
+# TheWastelandBot
+Discord Game Bot
